@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "6.0.8-f2edbf62ab~116~ubuntu22.04.1"
     },
-    "CreationDate": "2022-10-26T10:02:15+11:00"
+    "CreationDate": "2022-10-26T10:35:28+11:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -88,31 +88,24 @@
     },
     {
       "Type": "SolderMask",
-      "Color": "Green",
-      "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
       "Name": "F.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 1.51,
       "Material": "FR4",
       "Name": "F.Cu/B.Cu",
       "Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
       "Name": "B.Cu"
     },
     {
       "Type": "SolderMask",
-      "Color": "Green",
-      "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
     {
