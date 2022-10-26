@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 2.3,
-          "height": 4.3,
-          "width": 4.3
+          "height": 4.1,
+          "width": 4.1
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -348,7 +348,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "banach.kicad_pro",
+    "filename": "banach_bottom_plate.kicad_pro",
     "version": 1
   },
   "net_settings": {
