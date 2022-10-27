@@ -191,7 +191,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "gerber-plate/")
+      (outputdirectory "../gerber/")
     )
   )
 
@@ -220,7 +220,7 @@
 
   (footprint "kbd:M2_Threads_v2" (layer "F.Cu")
     (tedit 5F7666D2) (tstamp 7bfda721-c799-4612-a79f-28f4ea31c061)
-    (at 112.91 66.9)
+    (at 112.63 66.89)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (attr exclude_from_pos_files exclude_from_bom)

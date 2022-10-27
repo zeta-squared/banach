@@ -308,7 +308,7 @@
 
   (footprint "kbd:SW_Hole_choc" (layer "F.Cu")
     (tedit 612F3D66) (tstamp 3f5ce0b7-aeb9-44c2-8ca4-41253ccf46c9)
-    (at 67.916 70.404)
+    (at 67.91 70.4)
     (fp_text reference "SW5" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b2e5499f-f298-4b19-bc07-83083661b99f)
@@ -377,7 +377,7 @@
 
   (footprint "kbd:SW_Hole_choc" (layer "F.Cu")
     (tedit 612F3D66) (tstamp 6b981170-f25f-41e9-ac4f-27668b4866c6)
-    (at 67.916 87.404)
+    (at 67.91 87.4)
     (fp_text reference "SW5" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 083543fc-9249-4ff0-a717-dda9b4df86dd)
@@ -469,7 +469,7 @@
 
   (footprint "kbd:SW_Hole_choc" (layer "F.Cu")
     (tedit 612F3D66) (tstamp 7d0a5777-fcec-45ac-a523-084c0dc7a0d4)
-    (at 67.916 104.404)
+    (at 67.91 104.4)
     (fp_text reference "SW5" (at 7 8.1) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f600cabd-2daf-4c45-978d-3322cb1189c3)
@@ -536,7 +536,7 @@
 
   (footprint "kbd:M2_Threads_v2" (layer "F.Cu")
     (tedit 5F7666D2) (tstamp 925c4bb5-13fe-4ea8-b32b-343e436a534a)
-    (at 112.91 66.9)
+    (at 112.63 66.89)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (attr exclude_from_pos_files exclude_from_bom)
